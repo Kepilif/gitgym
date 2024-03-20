@@ -1,2 +1,5 @@
 20/03/24 Przedwczoraj zmiana, wczoraj nie, dzis powtórka z git diff
 Wczoraj było puste. Dziś 18/03/24 już nie
+Zmiana dla git diftool
+Jeszcze ustawić Visual Studio Code jako difftool!
+Na przyszłosć z terminala mogę wejsć do terminala z bieżącego katalogu poprzez komendę 'code .'
